@@ -8,6 +8,7 @@ A script to render 27,000 cubes as a larger cube at 60fps.
 To run the following index.html file, either open it in your browser, or use:
 
 npm i -g serve
+
 serve -l 1234
 
 # Changes
