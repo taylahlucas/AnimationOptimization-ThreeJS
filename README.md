@@ -3,6 +3,8 @@
 
 A script to render 27,000 cubes as a larger cube at 60fps.
 
+https://github.com/taylahlucas/AnimationOptimization-ThreeJS/assets/53559103/dc67af89-b657-4b1b-988b-a74c46f7cbb7
+
 # Setup
 
 To run the following index.html file, either open it in your browser, or use:
